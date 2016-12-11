@@ -1,10 +1,10 @@
 <?php
 /**
- * Created by PhpStorm.
+* Created by PhpStorm.
  * User: wuxy
- * Date: 2016/12/11
- * Time: 14:48
- */
+* Date: 2016/12/11
+* Time: 14:48
+*/
 
 //定义网站根目录
 define('ROOT_PATH', dirname(dirname(__FILE__)) . '/');
