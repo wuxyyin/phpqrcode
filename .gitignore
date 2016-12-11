@@ -3,23 +3,6 @@
 #################
 
 .idea
-.idea/
+target/
+cache/
 
-#################
-## Eclipse
-#################
-
-*.pydevproject
-.project
-.metadata
-bin/
-tmp/
-*.tmp
-*.bak
-*.swp
-*~.nib
-.svn
-local.properties
-.classpath
-.settings/
-.loadpath
