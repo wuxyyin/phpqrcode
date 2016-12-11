@@ -1,2 +1,25 @@
-# PhpStorm
+#################
+## PhpStrom
+#################
+
 .idea
+.idea/
+
+#################
+## Eclipse
+#################
+
+*.pydevproject
+.project
+.metadata
+bin/
+tmp/
+*.tmp
+*.bak
+*.swp
+*~.nib
+.svn
+local.properties
+.classpath
+.settings/
+.loadpath
